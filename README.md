@@ -20,5 +20,7 @@ $> ./bin/team-area.js [options] [tipo_de_figura]
 
 [Módulo Rectangle](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-jimmy-fernando-rectangle)
 
+[Página personal de Fernando Nantes](alu100897975.github.io)
 
+[Página personal de Alex Jimmy](didream.github.io)
 
