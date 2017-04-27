@@ -2,6 +2,12 @@
 
 Módulo principal Shape del cual heredan las demás clases Square, Triangle y Rectangle.
 
+Para instalar las dependencias de las figuras, ejecutaremos:
+
+```bash
+$> npm install @ull-team-fernando-jimmy/ull-shape-<square|triangle|rectangle>
+```
+
 Si queremos ejecutar el script, en la línea de comandos escribiremos:
 
 ```bash
