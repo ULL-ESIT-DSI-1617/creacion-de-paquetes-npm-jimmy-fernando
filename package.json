@@ -1,10 +1,13 @@
 {
   "name": "@ull-team-fernando-jimmy/ull-shape",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "",
   "main": "shape.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "team-area": "bin/team-area.js"
   },
   "repository": {
     "type": "git",
