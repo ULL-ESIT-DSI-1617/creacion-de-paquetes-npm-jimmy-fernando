@@ -4,9 +4,9 @@
   "description": "",
   "main": "shape.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/mocha/bin/mocha --require should"
   },
-  "bin":{
+  "bin": {
     "team-area": "bin/team-area.js"
   },
   "repository": {
@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-jimmy-fernando/issues"
   },
-  "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-jimmy-fernando#readme"
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-jimmy-fernando#readme",
+  "dependencies": {
+    "mocha": "^3.3.0",
+    "should": "^11.2.1"
+  }
 }
